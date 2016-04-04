@@ -1,0 +1,11 @@
+.peque{
+	width: 25%;
+	height: 100px;
+}
+.contiene{
+	border:2px solid black;
+	width:75%;
+}
+.amarillo{ background-color: #FFFF01; }
+.celeste{ background-color: #3A80BB; }
+.rosa{ background-color: 	#ED2251; }
